@@ -33,3 +33,25 @@ In this problem, you will be downloading some files from online, then creating a
 - added all sources
 - modified hello file
 ******************/
+
+Dugmars-MacBook-Air:~ dugmarmorocho$ cd ~
+Dugmars-MacBook-Air:~ dugmarmorocho$ cd Desktop
+Dugmars-MacBook-Air:Desktop dugmarmorocho$ mkdir pset2
+Dugmars-MacBook-Air:Desktop dugmarmorocho$ cd pset2/
+Dugmars-MacBook-Air:pset2 dugmarmorocho$ mkdir assets
+Dugmars-MacBook-Air:pset2 dugmarmorocho$ cd assets/
+Dugmars-MacBook-Air:assets dugmarmorocho$ mkdir images memes src
+Dugmars-MacBook-Air:assets dugmarmorocho$ cd ~
+Dugmars-MacBook-Air:~ dugmarmorocho$ cd Desktop/
+Dugmars-MacBook-Air:Desktop dugmarmorocho$ cd Pursuit/
+Dugmars-MacBook-Air:Pursuit dugmarmorocho$ cd PCNWLab-Command-Line/
+Dugmars-MacBook-Air:PCNWLab-Command-Line dugmarmorocho$ cd stuff/
+Dugmars-MacBook-Air:stuff dugmarmorocho$ mv {amazon.jpg,facebook.png,google.jpg,twitter.png} ~/Desktop/pset2/assets/images/
+Dugmars-MacBook-Air:stuff dugmarmorocho$ mv meme.jpg ~/Desktop/pset2/assets/memes/
+Dugmars-MacBook-Air:stuff dugmarmorocho$ mv foo.js ~/Desktop/pset2/assets/src/
+Dugmars-MacBook-Air:stuff dugmarmorocho$ mv app.js ~/Desktop/pset2/assets/
+Dugmars-MacBook-Air:stuff dugmarmorocho$ mv hello.html ~/Desktop/pset2/assets/
+Dugmars-MacBook-Air:stuff dugmarmorocho$ cd ~/Desktop/
+Dugmars-MacBook-Air:Desktop dugmarmorocho$ cd pset2/
+Dugmars-MacBook-Air:pset2 dugmarmorocho$ code assets/hello.html
+Dugmars-MacBook-Air:pset2 dugmarmorocho$
